@@ -2,6 +2,3 @@
 
 Ziqi Yang
 
-# Introduction
-
-# Required Tools
